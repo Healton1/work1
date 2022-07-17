@@ -51,7 +51,8 @@ print("Тут выше добавили к ними строку чисел", sa
 print('Индекс чтоб найти число по номеру', sd[2, 1]) # тут уже лезут ошибки если искать в другом, надо снова переменую вводить???
 arrtranspone = arr6.transpose()
 print(arrtranspone) # разворот матрицы
-#np.savetxt('с юьюба примеры.txt', arrtranspone, delimiter='')
+#np.savetxt('с юьюба примеры.txt', arrtranspone, delimiter='')  через 1 место
+
 
 
 
